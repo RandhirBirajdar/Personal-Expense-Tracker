@@ -38,7 +38,7 @@ Personal-Expense-Tracker/
 ├── Figure_1.png             # Application screenshots 1
 ├── Figure_2.png             # Application screenshots 2
 ├── micro+project+research+paper.pdf       # Research Paper
-├── Randhir+S_unlocked (1).pdf             # Research Paper Certificate
+├── Randhir+S_unlocked.pdf                 # Research Paper Certificate
 └── README.md
 
 ````
