@@ -35,9 +35,10 @@ Personal-Expense-Tracker/
 ├── micro1.py                # Main application file
 ├── expenses.csv             # Stored expense data
 ├── expenses.txt             # Text export of data
-├── Figure_1.png              # Application screenshots
-├── Figure_2.png
-├── micro+project+research+paper.pdf
+├── Figure_1.png             # Application screenshots 1
+├── Figure_2.png             # Application screenshots 2
+├── micro+project+research+paper.pdf       # Research Paper
+├── Randhir+S_unlocked (1).pdf             # Research Paper Certificate
 └── README.md
 
 ````
